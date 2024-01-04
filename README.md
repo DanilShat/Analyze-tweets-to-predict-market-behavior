@@ -14,7 +14,7 @@ The data used in this project is sourced from Kaggle.
 ## Models Used
 - Model 1: [ProsusAI/finbert](https://huggingface.co/ProsusAI/finbert)
 - Model 2: [mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
-- - Model 3: [lxyuan/distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
+- Model 3: [lxyuan/distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
 - Final Estimator: XGBClassifier()
 
 ## Results
